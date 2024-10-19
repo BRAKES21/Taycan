@@ -1,2 +1,2 @@
 # Taycan
-A basic website built from HTML &amp; CSS for Michael Kors watches and Constantine
+A basic website for porshe cars and porshe designs collection.
