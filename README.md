@@ -1,2 +1,2 @@
 # Taycan Timetable
-A school timetable.
+A school timetable made from HTML and CSS.
